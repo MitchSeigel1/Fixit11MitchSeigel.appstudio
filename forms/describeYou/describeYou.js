@@ -14,3 +14,7 @@ if (rdoPersonType.value == 0) { // picked the first choice
   }
 }
 
+
+btnToExercises.onclick=function(){
+    ChangeForm(favExercises)
+}

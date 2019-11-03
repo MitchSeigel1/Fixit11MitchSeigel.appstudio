@@ -18,6 +18,24 @@
         "Elements", 
         "selExercises.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "favExercises", 
+        "Elements", 
+        "btnNextPage.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "favExercises", 
+        "Elements", 
+        "btnEnter.json"
+      ]
     }
   ], 
   "class": "", 
